@@ -1,0 +1,10 @@
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\bin\Debug\FormularioDatos.exe.config
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\bin\Debug\FormularioDatos.exe
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\bin\Debug\FormularioDatos.pdb
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\obj\Debug\FormularioDatos.csproj.AssemblyReference.cache
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\obj\Debug\FormularioDatos.Form1.resources
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\obj\Debug\FormularioDatos.Properties.Resources.resources
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\obj\Debug\FormularioDatos.csproj.GenerateResource.cache
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\obj\Debug\FormularioDatos.csproj.CoreCompileInputs.cache
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\obj\Debug\FormularioDatos.exe
+C:\Users\itecnico\source\repos\Prueba-01\FormularioDatos\obj\Debug\FormularioDatos.pdb
